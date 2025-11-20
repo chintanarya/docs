@@ -57,12 +57,19 @@
             ]
           },
           {
+          "group": "Lexsi API",
+          "openapi": {
+            "source": "api-reference/openapi.json",
+            "directory": "api-reference"
+          }
+        },
+          {
             "group": "Endpoint examples",
             "pages": [
               "api-reference/endpoint/get",
               "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook",
-              "api-reference/openapi.json"
+              "api-reference/endpoint/webhook"
+              
             ]
           }
         ]
